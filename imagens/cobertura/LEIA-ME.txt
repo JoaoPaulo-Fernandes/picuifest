@@ -1,0 +1,20 @@
+FOTOS DA COBERTURA — PICUI FEST
+================================
+
+Coloque as fotos reais em uma pasta por dia:
+
+  imagens/cobertura/2026/11-27/   (sexta, 27)
+  imagens/cobertura/2026/11-28/   (sábado, 28)
+  imagens/cobertura/2026/11-29/   (domingo, 29)
+
+Dicas:
+- use fotos horizontais, com até 1600 px de largura;
+- prefira WebP (arquivos menores e mais rápidos);
+- nomeie em ordem: foto-01.webp, foto-02.webp...
+- publique menores apenas com autorização dos responsáveis.
+
+Depois, atualize dados/galeria.js com o caminho de cada foto,
+o texto alternativo (alt), a legenda e o crédito.
+
+A pasta imagens/cobertura/demo/ guarda as imagens de exemplo.
+Elas não devem ir para o ar quando as fotos reais entrarem.
