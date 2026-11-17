@@ -1,0 +1,10 @@
+{
+  "name": "picui-fest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agenda, cobertura e memória das festas de Picuí e região.",
+  "scripts": {
+    "validar": "node ferramentas/validar-dados.js",
+    "importar": "node ferramentas/importar-eventos.js"
+  }
+}
