@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Imagem de exemplo para foto do público — Sábado, 28">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#163a2b"/>
+      <stop offset="1" stop-color="#23523c"/>
+    </linearGradient>
+    <radialGradient id="sol" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#eab04a" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#eab04a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grao" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".7" fill="#f6eddd" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#fundo)"/>
+  <rect width="1200" height="900" fill="url(#grao)"/>
+  <circle cx="643" cy="206" r="278" fill="url(#sol)"/>
+  <circle cx="643" cy="206" r="139" fill="none" stroke="#eab04a" stroke-width="2" opacity=".55"/>
+  <path d="M270 780 Q484 416 920 700" fill="none" stroke="#f6eddd" stroke-width="2" opacity=".24"/>
+  <path d="M96 620 Q435 274 1090 560" fill="none" stroke="#eab04a" stroke-width="2.4" opacity=".5"/>
+  <path d="M122 900 L452 60" stroke="#f6eddd" stroke-width="1.2" opacity=".12"/><path d="M182 900 L512 60" stroke="#f6eddd" stroke-width="1.2" opacity=".12"/><path d="M242 900 L572 60" stroke="#f6eddd" stroke-width="1.2" opacity=".12"/>
+  <circle cx="613" cy="357" r="6" fill="#f6eddd" opacity="0.18"/><circle cx="922" cy="545" r="3" fill="#f6eddd" opacity="0.55"/><circle cx="713" cy="165" r="2" fill="#f6eddd" opacity="0.4"/><circle cx="536" cy="651" r="5" fill="#f6eddd" opacity="0.4"/><circle cx="443" cy="367" r="3" fill="#f6eddd" opacity="0.18"/><circle cx="723" cy="583" r="3" fill="#f6eddd" opacity="0.28"/><circle cx="1126" cy="294" r="6" fill="#f6eddd" opacity="0.28"/><circle cx="1086" cy="312" r="6" fill="#f6eddd" opacity="0.28"/><circle cx="190" cy="519" r="4" fill="#f6eddd" opacity="0.28"/><circle cx="558" cy="336" r="2" fill="#f6eddd" opacity="0.55"/><circle cx="596" cy="198" r="2" fill="#f6eddd" opacity="0.55"/><circle cx="749" cy="432" r="4" fill="#f6eddd" opacity="0.28"/><circle cx="194" cy="532" r="4" fill="#f6eddd" opacity="0.18"/><circle cx="716" cy="515" r="5" fill="#f6eddd" opacity="0.55"/><circle cx="500" cy="278" r="5" fill="#f6eddd" opacity="0.28"/><circle cx="980" cy="191" r="5" fill="#f6eddd" opacity="0.18"/><circle cx="886" cy="370" r="5" fill="#f6eddd" opacity="0.4"/><circle cx="520" cy="467" r="6" fill="#f6eddd" opacity="0.28"/>
+  <rect x="58" y="54" width="158" height="42" rx="7" fill="#eab04a"/>
+  <text x="78" y="83" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2" fill="#211610">EXEMPLO</text>
+  <text x="58" y="788" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="#f6eddd">SÁB 28</text>
+  <text x="62" y="832" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#f6eddd" opacity=".78">Foto do público • substituir</text>
+</svg>
